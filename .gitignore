@@ -1,0 +1,7 @@
+
+#excluir carpeta node_modules
+node_modules/
+#excluir archivos temporales
+*.tmp
+.env
+*.log
